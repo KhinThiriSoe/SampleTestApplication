@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SampleTestApplication</string>
+
+    <!--Login Activity-->
+    <string name="btn_login">SignIn with G+</string>
+
+    <!--menu in book lists-->
+    <string name="item_profile">Profile</string>
+    <string name="item_signout">SignOut</string>
+
+    <!--profile-->
+    <string name="toolbar_profile">Profile</string>
+
+</resources>

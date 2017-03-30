@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943058339602",
+    "project_id": "firebase-sampletestapplication"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943058339602:android:c0970e849ec2e9fe",
+        "android_client_info": {
+          "package_name": "com.khinthirisoe.sampletestapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943058339602-lmaf8894b59f6rktof6g7gvauksaq823.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "943058339602-4i98k4gvo3c8bvegos5hbjpaqmcv2qrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khinthirisoe.sampletestapplication",
+            "certificate_hash": "949f2492a4bfda6a7ea31313c0e1ea7fba385dac"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj7L7uYi3nfkkTrWE_m860GWBhCkeT3tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

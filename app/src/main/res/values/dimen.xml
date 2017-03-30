@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--list item-->
+    <dimen name="list_item_height">250dp</dimen>
+    <dimen name="list_item_image">140dp</dimen>
+    <dimen name="overflow_width">16dp</dimen>
+    <dimen name="overflow_height">25dp</dimen>
+
+    <dimen name="standard_margin">16dp</dimen>
+
+</resources>
